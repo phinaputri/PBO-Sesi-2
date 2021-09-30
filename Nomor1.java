@@ -1,4 +1,4 @@
-/*  Nama : Phina Putri Aamalia
+/*  Nama : Phina Putri Amalia
     Kelas : Reg TI20A
     NIM : 20200040063
 */
